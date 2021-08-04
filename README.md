@@ -7,5 +7,7 @@ when user calls again it can listen to the replies to the previously created pos
 
 it is especially useful for differntly abled and non tech savy people.
 
+project is made using node js and mongo db.
+
 
 <img width="1100" alt="Screenshot 2021-08-02 at 10 09 27 PM" src="https://user-images.githubusercontent.com/52688675/128156861-6da0060f-16ba-461e-a9c3-26ee75a9399d.png">
