@@ -1,0 +1,23 @@
+{
+  "name": "twillio-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body": "^5.1.0",
+    "express": "^4.17.1",
+    "gens": "^1.1.0",
+    "mongo": "^0.1.0",
+    "mongoose": "^5.13.4",
+    "routes-router": "^4.3.1",
+    "striptags": "^3.2.0",
+    "twilio": "^3.66.0",
+    "url": "^0.11.0",
+    "xmlhttprequest": "^1.8.0"
+  }
+}
